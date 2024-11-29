@@ -10,6 +10,8 @@ The `GROQSIMPLE` function is a simple way to create social media copy in Google 
 
 Duplicate this [Google Sheets file](https://docs.google.com/spreadsheets/d/1z4a1B64PL9Q9fiO_2Oqyj1i9WnUjQpsRu7U6VgnlW00/edit?usp=sharing)
 
+The API Key within the above file will be removed by Dec 2nd, 2024.
+
 OR create your own Google Sheets file and copy this code into Apps Script.
 
 Add your API_KEY from Groq in the grey box in "API Config" Sheet.
