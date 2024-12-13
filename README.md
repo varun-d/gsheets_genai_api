@@ -23,3 +23,7 @@ In any cell type
 `=GROQSIMPLE("This is system message", "This is your request to the model")`
 
 Modify the parameters in "API Config" sheet to change the model or other parameters
+
+# What's in the pipeline
+
+Google Sheets CRM to be augmented with custom functions, so I can write quite follow up emails to the contacts
