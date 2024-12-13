@@ -24,6 +24,6 @@ In any cell type
 
 Modify the parameters in "API Config" sheet to change the model or other parameters
 
-# What's in the pipeline
+## What's in the pipeline
 
 Google Sheets CRM to be augmented with custom functions, so I can write quite follow up emails to the contacts
